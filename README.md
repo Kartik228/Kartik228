@@ -66,6 +66,34 @@ I enjoy building intelligent applications, exploring machine learning, and devel
 </tr>
 </table>
 
+
+<h3>Languages & Libraries</h3>
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>Python</td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="45"/><br>SQL</td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/><br>C</td>
+<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/><br>Java</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/><br>NumPy</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
+</tr>
+<tr>
+<td align="center"><img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" width="45" alt="XGBoost"/><br>XGBoost</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>Matplotlib</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45"/><br>HTML5</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45"/><br>CSS3</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/><br>PHP</td>
+</tr>
+</table>
+
+
 <h3>Tools & Databases</h3>
 
 <table>
