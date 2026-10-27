@@ -20,13 +20,6 @@ to solve real-world problems.
 
 <hr>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=250&section=header&text=Karthik%20Vijayan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=25&desc=Computer%20Science%20student%20passionate%20about%20AI%2C%20Machine%20Learning%2C%20Python%20development%2C%20Deep%20Learning%20and%20Data%20Science&descSize=16&descAlignY=55" />
-</div>
-
-
-
-
 # Hey, I'm Karthik Vijayan 👋
 
 <div align="center">
