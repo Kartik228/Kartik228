@@ -11,29 +11,56 @@ I enjoy building intelligent applications, exploring machine learning, and devel
 
 ---
 
+
 <h2>🛠️ Tech Stack</h2>
 
 <h3>Languages & Libraries</h3>
 
 <table>
 <tr>
-<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>Python</td>
-<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/><br>SQL</td>
-<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
-<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/><br>C</td>
-<td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>Python
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="45"/><br>SQL
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/><br>C
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++
+</td>
 </tr>
+
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/><br>Java</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/><br>NumPy</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/><br>Java
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/><br>NumPy
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/><br>Pandas
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter
+</td>
 </tr>
+
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xgboost/xgboost-original.svg" width="45"/><br>XGBoost</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>Matplotlib</td>
-<td colspan="3" align="center">Machine Learning & Data Science</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.png" width="45"/><br>XGBoost
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>Matplotlib
+</td>
+<td colspan="3"></td>
 </tr>
 </table>
 
@@ -41,11 +68,18 @@ I enjoy building intelligent applications, exploring machine learning, and devel
 
 <table>
 <tr>
-<td align="center" width="33.33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/><br>Git</td>
-<td align="center" width="33.33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45"/><br>GitHub</td>
-<td align="center" width="33.33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL</td>
+<td align="center" width="33.33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/><br>Git
+</td>
+<td align="center" width="33.33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45"/><br>GitHub
+</td>
+<td align="center" width="33.33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/><br>PostgreSQL
+</td>
 </tr>
 </table>
+
 
 ---
 
