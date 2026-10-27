@@ -55,7 +55,9 @@ I enjoy building intelligent applications, exploring machine learning, and devel
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo.png" width="45"/><br>XGBoost
+  <img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" width="60" alt="XGBoost"/><br>
+  XGBoost
+</td>
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>Matplotlib
