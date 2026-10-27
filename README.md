@@ -1,10 +1,12 @@
+
 <div align="center">
   <img
-    src="./Karthik%20Vijayan%20Tech%20Portfolio%20Banner.png"
+    src="./Karthik%20Vijayan%20Tech%20Portfolio%20Banner%20(1).png"
     width="100%"
     alt="Karthik Vijayan - About Me"
   />
 </div>
+
 
 # Hey, I'm Karthik Vijayan 👋
 
