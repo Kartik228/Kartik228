@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077FF&height=180&section=header&text=Kartik%20Vijayan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Python%20Developer&descAlignY=55&descSize=16" />
+</div>
+
 # Hey, I'm Karthik Vijayan 👋
 
 <div align="center">
