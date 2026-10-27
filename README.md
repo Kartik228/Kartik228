@@ -1,25 +1,3 @@
-
-<!-- Header -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0077FF&height=180&section=header&text=Karthik%20Vijayan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Python%20Developer&descAlignY=55&descSize=16" />
-</div>
-
-<!-- About Me -->
-<div align="center">
-
-<h2>About Me</h2>
-
-<p>
-Computer Science student passionate about Artificial Intelligence,
-Machine Learning, and Python development. Interested in building
-intelligent solutions, exploring deep learning, and using data science
-to solve real-world problems.
-</p>
-
-</div>
-
-<hr>
-
 # Hey, I'm Karthik Vijayan 👋
 
 <div align="center">
