@@ -18,59 +18,6 @@ I enjoy building intelligent applications, exploring machine learning, and devel
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>Python
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="45"/><br>SQL
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/><br>C
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/><br>Java
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45"/><br>NumPy
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45"/><br>Pandas
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>Scikit-learn
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" width="60" alt="XGBoost"/><br>
-  XGBoost
-</td>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45"/><br>Matplotlib
-</td>
-<td colspan="3"></td>
-</tr>
-</table>
-
-
-<h3>Languages & Libraries</h3>
-
-<table>
-<tr>
 <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/><br>Python</td>
 <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="45"/><br>SQL</td>
 <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
