@@ -1,5 +1,9 @@
 # Hey, I'm Karthik Vijayan 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kartik+Vijayan;Computer+Science+Student;AI%2FML+%26+Full-Stack+Developer;Building+LifeLoan+%F0%9F%9A%80" alt="Animated typing introduction" />
+</div>
+
 ### Computer Science Student | AI/ML Developer | Python Developer
 
 I enjoy building intelligent applications, exploring machine learning, and developing software that solves real-world problems.
